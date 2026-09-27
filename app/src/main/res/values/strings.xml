@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Omni Agent</string>
+    <string name="accessibility_service_description">Omni Agent Accessibility Service allows the AI agent to assist you, inspect screen focus for watchdog highlights, execute authorized user actions, and respond to volume key shortcuts.</string>
+</resources>

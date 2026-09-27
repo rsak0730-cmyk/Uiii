@@ -1,0 +1,6 @@
+{
+  "name": "Omni Agent",
+  "description": "AI Agent with Dynamic Island, voice interaction, app automation, API setup, iOS voicemail and cyberpunk neon styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
